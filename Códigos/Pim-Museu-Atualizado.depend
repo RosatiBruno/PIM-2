@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1700257421 source:c:\users\pichau\desktop\pim-museu-atualizado\pim-museu-atualizado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<conio.h>
+
+1700527772 source:c:\users\bruno\desktop\pim-2\códigos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+
