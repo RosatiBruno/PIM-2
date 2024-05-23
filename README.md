@@ -36,5 +36,9 @@ Para realizar o login no sistema e habilitar as vendas, as credenciais são: <br
 ## Tecnologias Utilizadas
 - **C:** Linguagem de programação utilizada para desenvolver a lógica da aplicação.
 
-## Autor
-[Bruno S. Rosati](https://github.com/RosatiBruno)
+## Autores
+Bruna Melissa dos Santos Vaz - Escritora da Monografia <br>
+[Bruno S. Rosati](https://github.com/RosatiBruno) - Desenvolvedor & Escritor da Monografia <br>
+[Cristielen F. C. da Silva](https://github.com/cristielen-cardoso) - Desenvolvedora & Escritora da Monografia <br>
+[Gabriel I. D. Gomes](https://github.com/Gabrielzin77) - Escritor da Monografia <br>
+Mariane Ellen dos Santos Vaz - Escritora da Monografia
